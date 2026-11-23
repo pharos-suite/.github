@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Prospect mark: a compass needle pointing at the next lead. -->
+  <rect width="512" height="512" rx="112" fill="#D9EAA3"/>
+  <polygon points="386,126 308,308 204,204" fill="#2C3A08"/>
+  <polygon points="126,386 204,204 308,308" fill="#2C3A08" opacity="0.4"/>
+  <circle cx="256" cy="256" r="20" fill="#D9EAA3"/>
+</svg>

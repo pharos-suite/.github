@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- pea-tools mark: three rising shards, money compounding. -->
+  <rect width="512" height="512" rx="112" fill="#F5E3A3"/>
+  <polygon points="120,400 176,316 232,400" fill="#4A3A05" opacity="0.45"/>
+  <polygon points="196,400 256,236 316,400" fill="#4A3A05" opacity="0.7"/>
+  <polygon points="280,400 352,120 408,400" fill="#4A3A05"/>
+</svg>

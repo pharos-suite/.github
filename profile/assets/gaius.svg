@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Gaius mark: a watch diamond over three server slabs. -->
+  <rect width="512" height="512" rx="112" fill="#C3CCDA"/>
+  <polygon points="256,84 296,136 256,188 216,136" fill="#1B2433"/>
+  <rect x="128" y="214" width="256" height="52" rx="14" fill="#1B2433"/>
+  <rect x="128" y="290" width="256" height="52" rx="14" fill="#1B2433"/>
+  <rect x="128" y="366" width="256" height="52" rx="14" fill="#1B2433"/>
+  <circle cx="340" cy="240" r="9" fill="#C3CCDA"/><circle cx="340" cy="316" r="9" fill="#C3CCDA"/><circle cx="340" cy="392" r="9" fill="#C3CCDA"/>
+</svg>
